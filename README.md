@@ -78,45 +78,45 @@ Travel isn’t just about getting from **point A to point B** — it’s about m
 
 
 **System Graph**
-![Graph](flight_agent/graph_image.jpg)
+![Graph](graph_image.jpg)
 
 
 
 **Flight Booking**  
-![Flight Booking](flight_agent/flight.png)  
+![Flight Booking](flight.png)  
 
 
 
 **Hotel Booking**  
-![Hotel Booking](flight_agent/book_hotel.png)  
+![Hotel Booking](book_hotel.png)  
 
 
 
 **Destination Images**  
-![Destination Images](flight_agent/images.png)  
+![Destination Images](images.png)  
 
 
 
 **Language Learning Module**  
-![Language Learning](flight_agent/language.png)  
+![Language Learning](language.png)  
 
 
 
 
 **Generated Travel Document**  
-![Generated Document](flight_agent/document.png)  
+![Generated Document](document.png)  
 
 
 
 
 **Emergency Alert System**  
-![Emergency Alert](flight_agent/emergency.png)  
+![Emergency Alert](emergency.png)  
 
 
 
 
 **Email Response Confirmation**  
-![Email Response](flight_agent/email_response.jpg)
+![Email Response](email_response.jpg)
 
 
 
@@ -133,7 +133,7 @@ Travel isn’t just about getting from **point A to point B** — it’s about m
 
 ```bash
 # Clone the repository
-git clone https://github.com/MuhammadHamza123c/FLIGHT_AGENT.git
+git clone https://github.com/
 cd FLIGHT_AGENT
 
 # Create virtual environment
